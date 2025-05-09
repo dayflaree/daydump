@@ -7,20 +7,35 @@ As of March 2025, I have deleted Garry's Mod from my Steam library and am no lon
 **Credits**
 
 dayflare
+
 riggs9162
+
 bloodycop6385
+
 pkz0zz
+
 sildotdev
+
 Kumazaki
+
 Bean
+
 Kazatoa
+
 Nick Landis
+
 SovietBear
+
 Archom
+
 Legacy
+
 Willard Networks
+
 Project Synapse
+
 Limefruit
+
 Project Black Mesa Roleplay
 
 If I forgot any other credits, I apologize I'm not a walking wikipedia. If you are someone that should be credited here, just use your imagination because I am not touching this repository any further.
