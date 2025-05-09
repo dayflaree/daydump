@@ -1,3 +1,25 @@
 # Dayflare's Garry's Mod Dump
-This is the master repository for all the backed up Gmod stuff I've collected over the years. Some of it is mine, some of it is not.
-I've created this repository because I am no longer active in Garry's Mod or its community. So whatever is in here does not effect me, I do not care.
+
+**Information**
+
+As of March 2025, I have deleted Garry's Mod from my Steam library and am no longer active in the game and the community. This repository acts as the mastery dump of all the frameworks, gamemodes, schemas, addons, server content etc that I have collected over the years. You are free to use any of it however you want, it does not matter to me. Whatever is in this repository is what it is, it does not effect me and I do not care.
+
+**Credits**
+dayflare
+riggs9162
+bloodycop6385
+pkz0zz
+sildotdev
+Kumazaki
+Bean
+Kazatoa
+Nick Landis
+SovietBear
+Archom
+Legacy
+Willard Networks
+Project Synapse
+Limefruit
+Project Black Mesa Roleplay
+
+If I forgot any other credits, I apologize I'm not a walking wikipedia. If you are someone that should be credited here, just use your imagination because I am not touching this repository any further.
