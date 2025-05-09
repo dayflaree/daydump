@@ -1,4 +1,4 @@
-# Dayflare's Garry's Mod Dump
+# Dayflare's Garry's Mod Dump (88.7 GB)
 
 **Information**
 
