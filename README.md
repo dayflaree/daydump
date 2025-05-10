@@ -32,11 +32,7 @@ Nick Landis
 
 SovietBear
 
-Archom
-
 Willard Networks
-
-Project Synapse
 
 Limefruit
 
