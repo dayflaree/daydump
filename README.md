@@ -6,7 +6,7 @@ I will not be removing anything from this repository. If you are someone who is 
 
 **Information**
 
-As of March 2025, I have deleted Garry's Mod from my Steam library and am no longer active in the game and the community. This repository acts as the mastery dump of all the frameworks, gamemodes, schemas, addons, server content, images etc that I have collected over the years. You are free to use any of it however you want, it does not matter to me. Whatever is in this repository is what it is, it does not effect me and I do not care.
+As of March 2025, I have deleted Garry's Mod from my Steam library and am no longer active in the game and the community. This repository acts as the mastery dump of all the frameworks, gamemodes, schemas, and images that I have collected over the years. You are free to use any of it however you want, it does not matter to me. Whatever is in this repository is what it is, it does not effect me and I do not care.
 
 **Credits**
 
@@ -30,15 +30,7 @@ Nick Landis
 
 SovietBear
 
-Archom
-
-Legacy
-
-Tucket
-
 Willard Networks
-
-Project Synapse
 
 Limefruit
 
